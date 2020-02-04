@@ -1,5 +1,3 @@
-//name:hussein nasrallah
-//id:201802472
 //server that calculate some statistical functions
 
 package project;
