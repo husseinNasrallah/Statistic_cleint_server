@@ -1,5 +1,3 @@
-//name:hussein nasrallah
-//id:201802472
 //client that sends numbers to the statistic server to make it computation and then prints the answers
 package project;
 
